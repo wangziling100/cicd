@@ -1,0 +1,7 @@
+resources:
+- PV/local.yaml
+- jenkins/namespace.yaml
+- jenkins/jenkins_pvc.yaml
+- jenkins/jenkins-rbac.yaml
+- jenkins/jenkins2.yaml
+
